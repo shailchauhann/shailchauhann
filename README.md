@@ -1,6 +1,6 @@
 <h1>Hi there 👋 , I am Shail Chauhan</h1>
 
-I am a 3rd year Undergraduate student at IIT-Bombay. Currently , Web and Technical Head at E-Cell, IIT Bombay. E-Cell IIT-Bombay is Asia's largest entrepreneurship promoting body in which we have multiple initiatives planned all over the year. I am interested in Web Development , Data Science and exploring different areas of Computer Science. 
+I am a 3rd year Undergraduate student at IIT-Bombay. Currently , Web and Technical Head at E-Cell, IIT Bombay. E-Cell IIT-Bombay is Asia's largest entrepreneurship promoting body in which we have multiple initiatives planned all over the year. I am interested in Web Development , Machine Learning and exploring different areas of Computer Science. 
 
 <!--
 **shailchauhann/shailchauhann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
